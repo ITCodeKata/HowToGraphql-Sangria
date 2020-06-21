@@ -1,7 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="060b1db6-46d7-4081-9744-a7077b6927d4" name="Default Changelist" comment="" />
+    <list default="true" id="060b1db6-46d7-4081-9744-a7077b6927d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$515c0c0866a436e8c865$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$515c0c0866a436e8c865.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$515c0c0866a436e8c865.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$06e19a336f958ef69d93$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$06e19a336f958ef69d93.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$06e19a336f958ef69d93.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4d977eb093037ec841fd$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4d977eb093037ec841fd$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4d977eb093037ec841fd.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4d977eb093037ec841fd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$742d1fd07f85a570696d$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$742d1fd07f85a570696d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$742d1fd07f85a570696d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$742d1fd07f85a570696d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8d117030f29a8195887f$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8d117030f29a8195887f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8d117030f29a8195887f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8d117030f29a8195887f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3633d41e0b9744d1620$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3633d41e0b9744d1620$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3633d41e0b9744d1620.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3633d41e0b9744d1620.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d1024ef3ef2dfac8dd0c$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d1024ef3ef2dfac8dd0c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d1024ef3ef2dfac8dd0c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d1024ef3ef2dfac8dd0c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f1aec743afd29a761e5a$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f1aec743afd29a761e5a$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f1aec743afd29a761e5a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f1aec743afd29a761e5a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/howtographql-sangria-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/howtographql-sangria-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/howtographql-sangria-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/howtographql-sangria-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-howtographql-sangria-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/DAO.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/DAO.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/DBSchema.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/DBSchema.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/GraphQLSchema.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/GraphQLSchema.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/GraphQLServer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/GraphQLServer.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/models/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/models/package.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/DAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/DAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/DBSchema$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/DBSchema$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/DBSchema$LinksTable$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/DBSchema$LinksTable$$anon$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/DBSchema$LinksTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/DBSchema$LinksTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/DBSchema.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/DBSchema.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/GraphQLSchema$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/GraphQLSchema$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/GraphQLSchema.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/GraphQLSchema.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/GraphQLServer$$anonfun$executeGraphQLQuery$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/GraphQLServer$$anonfun$executeGraphQLQuery$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/GraphQLServer$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/GraphQLServer$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/models/package$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/models/package$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/models/package$Link$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/models/package$Link$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/models/package$Link.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/models/package$Link.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/models/package.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/howtographql/scala/sangria/models/package.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/run/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/run/$global/streams/out" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +131,26 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.howtographql.scala.sangria.Server" />
+      <module name="howtographql-sangria" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.howtographql.scala.sangria.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="availableProjects">
@@ -108,17 +212,101 @@
       <updated>1591749993416</updated>
       <workItem from="1591749996099" duration="794000" />
       <workItem from="1592009465957" duration="30000" />
-      <workItem from="1592009523938" duration="3998000" />
+      <workItem from="1592009523938" duration="8903000" />
+      <workItem from="1592629130121" duration="10519000" />
     </task>
+    <task id="LOCAL-00001" summary="2nd Test commit">
+      <created>1592013651680</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592013651680</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2nd Test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd Test commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="371" y="96" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1592645577113">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="96" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1592645577113" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592629783602">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1592629783602" />
+    <state x="446" y="39" key="#com.intellij.ide.util.MemberChooser" timestamp="1592645505682">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="39" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1592645505682" />
+    <state x="216" y="0" key="CommitChangelistDialog2" timestamp="1592013650974">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="216" y="0" key="CommitChangelistDialog2/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1592013650974" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1592747442302">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1592646176746" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1592747442302" />
+    <state width="1237" height="138" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592644800780" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1592747442302">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="163" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1592646176746" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1592747442302" />
+    <state width="1237" height="138" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1592644800780" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1592747442302">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="163" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1592646176746" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1592747442302" />
+    <state width="1237" height="138" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1592644800780" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1592747442302">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="163" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1592646176746" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1592747442302" />
+    <state width="1237" height="138" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1592644800780" />
+    <state width="1237" height="138" key="GridCell.Tab.1.bottom" timestamp="1592644800780">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="138" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592644800780" />
+    <state width="1237" height="138" key="GridCell.Tab.1.center" timestamp="1592644800780">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="138" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1592644800780" />
+    <state width="1237" height="138" key="GridCell.Tab.1.left" timestamp="1592644800780">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="138" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1592644800780" />
+    <state width="1237" height="138" key="GridCell.Tab.1.right" timestamp="1592644800780">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="138" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1592644800780" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1592013653093">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1592013653093" />
     <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1592009526427">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1592009526427" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/com/howtographql/scala/sangria/DAO.scala</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
